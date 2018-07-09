@@ -1,3 +1,3 @@
 xset s reset
-tvservice -p
+vcgencmd display_power 1
 xset dpms force on
